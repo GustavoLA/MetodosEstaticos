@@ -1,13 +1,11 @@
-
 package Validadores;
 
 public class Validadores {
+
+    String nome;
     
-    public static void somenteLetras(){
-        
-    }
-    
-    public static void somenteNumeros(){
+    public static void somenteLetras() {
+   
         
     }
 }
